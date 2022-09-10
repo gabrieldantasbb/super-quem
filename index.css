@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    scroll-behavior: smooth;
+  }
+
+.bg-blue-gradient {
+background: linear-gradient(165deg, rgba(71,0,13,1) 0%, rgba(22,0,111,1) 100%);
+  }
+
+ .bebas {
+    font-family: 'Bebas Neue';
+ } 
+
+ .lato {
+    font-family: 'Lato', sans-serif;
+ } 
+
+ .pink {
+    color: #FF3157;
+ }
